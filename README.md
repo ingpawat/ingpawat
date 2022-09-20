@@ -11,7 +11,7 @@
 <p align="center">
 
 <a class="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html">
-    <img alt="HTML" width="80"height="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
+    <img alt="HTML" width="100"height="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
     
 <a class="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" width="80" height="80"src="https://styled-components.com/logo.png"></a>
