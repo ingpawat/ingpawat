@@ -31,7 +31,7 @@
 </p></br>
 
 <h3 align="left" font-size="100px">Non-Tech Frameworks : </h3>  
-<h1 align="center" href="https://www.quora.com/What-is-the-relationship-between-programmers-and-coffee" font-size="100px">☕</h1>
+<h1 align="center" href="https://www.quora.com/What-is-the-relationship-between-programmers-and-coffee" font-size="100px">☕, ⚽</h1>
 </br>
 <h1 align="center" font-size="40px'>☕</h1>
 
