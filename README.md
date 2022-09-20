@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Me, Ingpawat Khemngam</h1>
+<h3 align="center">I basically having four cats 🐈.</h3>
+<h3 align="center">Software Developer in training at @techupth</h3>
 
-<!--
-**ingpawat/ingpawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Connect with me: ingpawat.k@gmail.com</h4>
+<p align="center">
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">Languages and Tools :</h4> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> <img src="https://camo.githubusercontent.com/bcd4bda49ef6cd9537db065920f4f4f6ac670eae0e0adf2c5133c19b319f1574/68747470733a2f2f627261646c632e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f627261646c632f7673636f64652d7461696c77696e646373732f302e322e302f313535383034303536333634392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" width="80" height="80"></a> </p>
+
+<p align="center">
+
+<p><img align="center"" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingpawat&show_icons=true&locale=en&layout=compact" alt="ingpawat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingpawat&show_icons=true&locale=en" alt="ingpawat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingpawat&" alt="ingpawat" /></p>
+
+</p>
