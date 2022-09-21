@@ -1,5 +1,5 @@
 <h1 align="center">Me, Ingpawat Khemngam</h1>
-<h3 align="center">I basically having four cats .</h3>
+<h3 align="center">I basically have four cats .</h3>
 <h3 align="center">Currently a software developer in training at @techupth 👨🏻‍💻</h3>
 <h4 align="center">Connect with me : ingpawat.k@gmail.com</h4>
 <h1 align="center">😻😿🙀😸</h1>
