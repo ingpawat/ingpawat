@@ -2,6 +2,7 @@
 <h3 align="center">I basically have four cats .</h3>
 <h3 align="center">Currently a software developer in training at @techupth 👨🏻‍💻</h3>
 <h4 align="center">Connect with me : ingpawat.k@gmail.com</h4>
+<h4 align="center">Visit my page : https://ingpawat-landing-page-resume.netlify.app/</h4>
 <h1 align="center">😻😿🙀😸</h1>
 </br>
 
