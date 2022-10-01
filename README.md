@@ -15,7 +15,7 @@
     <img alt="HTML" width="100"height="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
     
 <a class="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS" width="80" height="80"src="https://styled-components.com/logo.png"></a>
+    <img alt="CSS" width="80" height="80"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></a>
     
 <a class="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="javascript"width="80" height="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
