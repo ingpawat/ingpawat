@@ -8,8 +8,7 @@
 
 
 <p align="center">
-
-
+<img src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1670665750/weatherapp/eartj-slow-unscreen_ljfihb.gif'></img>
 </p></br>
 
 
