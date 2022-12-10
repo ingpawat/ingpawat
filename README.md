@@ -5,14 +5,6 @@
 </br>
 
 
-
-
-<p align="center">
-<img src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1670665750/weatherapp/eartj-slow-unscreen_ljfihb.gif'></img>
-</p></br>
-
-
-
 <h1 align="center" font-size="40px'>☕</h1>
 
 
@@ -30,3 +22,7 @@
 
 
 </p>
+
+<p align="center">
+<img src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1670665750/weatherapp/eartj-slow-unscreen_ljfihb.gif'></img>
+</p></br>
