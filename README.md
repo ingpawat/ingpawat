@@ -18,19 +18,19 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,mongodb,nextjs" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vite,vscode,discord" />
   </a>
 </p>
