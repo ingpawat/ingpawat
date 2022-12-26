@@ -41,6 +41,11 @@
 
 ###
 
+
+<p align="center">
+<img src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1668858601/ipwlogo/ipwlogo_pfgmxy.png' height="350"></img>
+</p></br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&username=ingpawat" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&username=ingpawat" height="150" alt="languages graph"  />
@@ -53,7 +58,3 @@
 ###
 
 
-</br>
-<p align="center">
-<img src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1670665750/weatherapp/eartj-slow-unscreen_ljfihb.gif'></img>
-</p></br>
