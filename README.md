@@ -1,60 +1,24 @@
-<h1 align="center">Ingpawat Khemngam</h1> 
+<h1 align="center">Ingpawat Khemngam</h1>
 
-
-###
-
-<h2 align="center">ingpawat.k@gmail.com 
+<h2 align="center">ingpawat.k@gmail.com
   <div align="center"></br>
-<a href="https://linkedin.com/in/ingpawat" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+    <a href="https://linkedin.com/in/ingpawat" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+        alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+  </div>
 </h2>
-<h4 align="center">Visit my page : https://ingpawat-landing-page-resume.netlify.app/</h4>
 
 <div align="center">
-<a href="https://wakatime.com/@019db2de-8494-4d62-a8c3-b9c3735977ba">
-<img src="https://wakatime.com/badge/user/019db2de-8494-4d62-a8c3-b9c3735977ba.svg" alt="Total time coded since Sep 29 2022" /></a>
+  <a href="https://wakatime.com/@019db2de-8494-4d62-a8c3-b9c3735977ba">
+    <img height="30" src="https://wakatime.com/badge/user/019db2de-8494-4d62-a8c3-b9c3735977ba.svg"
+      alt="Total time coded since Sep 29 2022" /></a>
 </div>
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,mongodb,nextjs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vite,vscode,discord" />
-  </a>
-</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-
-<p align="center">
-<img src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1668858601/ipwlogo/ipwlogo_pfgmxy.png' height="350"></img>
-</p></br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&username=ingpawat" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&username=ingpawat" height="150" alt="languages graph"  />
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ingpawat&theme=monokai)](https://git.io/streak-stats)
+  <figure height="350"><embed src="https://wakatime.com/share/@Ingpawat/da88fbdd-f80f-4142-9abd-e0cc5115f2b6.svg"></embed></figure>
 </div>
 
-
-
-###
-
-
+<div align="center">
+  <figure><embed height="550" src="https://wakatime.com/share/@Ingpawat/4d170bd3-7b77-4552-9250-fd79bd7e453f.svg"></embed></figure>
+</div>
