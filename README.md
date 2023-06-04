@@ -15,7 +15,6 @@
 </div>
 
 <div align="center">
-   <h3>My flight hours since I code. 🛩️</h3>
   <img height="150px" width="auto"
     src="https://wakatime.com/share/@Ingpawat/da88fbdd-f80f-4142-9abd-e0cc5115f2b6.svg"></img>
 </div>
