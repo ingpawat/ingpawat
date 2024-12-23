@@ -1,6 +1,5 @@
 <h1 align="center">Ingpawat Khemngam</h1>
 <h2 align="center">ingpawat.k@gmail.com</h2>
-<p align="center">Me Ingpawat, embarked on a coding journey in 2022. After diving into the basics, he landed a role as a developer in the retail & e-commerce industry in 2023. Currently, he's employed at Sonepar Thailand, where he works in a hybrid role as a developer and application support.</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/ingpawat" target="_blank">
