@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img height="150px" width="auto" src="https://wakatime.com/share/@Ingpawat/da88fbdd-f80f-4142-9abd-e0cc5115f2b6.svg"></img>
+  <img height="80" width="auto" src="https://wakatime.com/share/@Ingpawat/1b7c0a34-3713-47d0-9163-5129348ac35f.svg"></img>
 </div>
 
 <div align="center">
