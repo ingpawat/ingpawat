@@ -14,6 +14,3 @@
   <img height="80" width="auto" src="https://wakatime.com/share/@Ingpawat/1b7c0a34-3713-47d0-9163-5129348ac35f.svg" alt="WakaTime Languages Used">
 </div>
 
-<div align="center">
-  <img height="550" src="https://wakatime.com/share/@Ingpawat/4d170bd3-7b77-4552-9250-fd79bd7e453f.svg" alt="WakaTime Weekly Activity">
-</div>
