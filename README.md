@@ -1,4 +1,4 @@
-<h1 align="center">Ingpawat Khemngam</h1>
+<h1 align="center">ingpawat</h1>
 <h2 align="center">📧 ingpawat.k@gmail.com</h2>
 
 <div align="center">
@@ -11,6 +11,7 @@
 </div>
 
 <div align="center">
-  <img height="80" width="auto" src="https://wakatime.com/share/@Ingpawat/1b7c0a34-3713-47d0-9163-5129348ac35f.svg" alt="WakaTime Languages Used">
+<H4>All Time Contributions </H1>
+  <img height="100" width="2500" src="https://wakatime.com/share/@Ingpawat/1b7c0a34-3713-47d0-9163-5129348ac35f.svg" alt="WakaTime Languages Used">
 </div>
 
