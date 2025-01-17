@@ -12,6 +12,6 @@
 
 <div align="center">
 <H4>All Time Contributions </H1>
-  <img height="100" width="2500" src="https://wakatime.com/share/@Ingpawat/1b7c0a34-3713-47d0-9163-5129348ac35f.svg" alt="WakaTime Languages Used">
+  <img height="85" width="auto" src="https://wakatime.com/share/@Ingpawat/1b7c0a34-3713-47d0-9163-5129348ac35f.svg" alt="WakaTime Languages Used">
 </div>
 
