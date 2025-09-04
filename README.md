@@ -1,8 +1,8 @@
 <!-- Minimal, consistent, accessible, GitHub-friendly -->
 <section style="text-align:center;">
   <h1>INGPAWAT KHEMNGAM</h1>
-  <h2>📧 <a href="mailto:ingpawat.k@gmail.com">ingpawat.k@gmail.com</a></h2>
-  <h2>🌐 <a href="ingpawat.com">ingpawat.com</a></h2>
+  <h4>📧 <a href="mailto:ingpawat.k@gmail.com">ingpawat.k@gmail.com</a></h4>
+  <h4>🌐 <a href="ingpawat.com">ingpawat.com</a></h4>
 
   <p>
     <a href="https://linkedin.com/in/ingpawat" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profile">
@@ -27,13 +27,4 @@
       loading="lazy"
       style="max-width:100%; height:auto;">
   </p>
-
-  <figure style="margin:0;">
-    <img
-      src="https://wakatime.com/share/@Ingpawat/9dc2cffa-08ad-47eb-b3b7-8a84c64bd0db.svg"
-      alt="WakaTime activity chart"
-      loading="lazy"
-      style="max-width:100%; height:auto;">
-    <figcaption style="font-size:0.9em; color:#666;">Coding activity</figcaption>
-  </figure>
 </section>
