@@ -2,7 +2,6 @@
 <section style="text-align:center;">
   <h1>INGPAWAT KHEMNGAM</h1>
   <h4>📧 <a href="mailto:ingpawat.k@gmail.com">ingpawat.k@gmail.com</a></h4>
-  <h4>🌐 <a href="ingpawat.com">ingpawat.com</a></h4>
 
   <p>
     <a href="https://linkedin.com/in/ingpawat" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profile">
